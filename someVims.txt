@@ -1,0 +1,23 @@
+to set syntax highlightning:
+:syntax on
+or
+:syntax enable
+
+to set colorscheme:
+:colorscheme blue
+
+:set tabstop=2
+
+:set smartindent
+:set nosmartindent
+
+:set smarttab
+
+:!ls
+
+with multiple buffers:
+:bnext
+:bprev
+:ls
+:bdelete or :bd to close
+
